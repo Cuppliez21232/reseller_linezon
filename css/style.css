@@ -1,0 +1,10 @@
+img {
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  img {
+    width: 50%;
+    margin-left: 25%;
+  }
+}
